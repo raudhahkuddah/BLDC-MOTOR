@@ -1,12 +1,12 @@
 # BLDC Motor Controller - Arduino
 
-This Arduino project controls a brushless DC (BLDC) motor using PWM signals, Hall-effect (or optocoupler) sensors, and a potentiometer for speed adjustment.
+This Arduino project controls a brushless DC (BLDC) motor using PWM signals, Hall-effect  sensors, and a potentiometer for speed adjustment.
 
 ## 📦 Components
-- Arduino Uno/Nano
+- Arduino Uno
 - IRLZ44N MOSFETs (3x)
 - 10kΩ Potentiometer
-- Hall-effect sensors or optocouplers (3x)
+- Hall-effect sensors (3x)
 - 9V battery
 - Custom 3-phase stator and rotor
 
@@ -21,7 +21,7 @@ This Arduino project controls a brushless DC (BLDC) motor using PWM signals, Hal
 3. Use the Serial Monitor at 9600 baud to view status and send direction commands.
 
 ## Team Members
-Muhammaf Irfan Muttaqin - 13120022
-Raudhah Yahya Kuddah - 13122003
-Ruben Rabbani - 13122159
+- Muhammaf Irfan Muttaqin - 13120022
+- Raudhah Yahya Kuddah - 13122003
+- Ruben Rabbani - 13122159
 
